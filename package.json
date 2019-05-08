@@ -1,0 +1,19 @@
+{
+  "name": "observe-object",
+  "version": "1.0.0",
+  "description": "Observe JavaScript objects with native Proxy API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "Observe",
+    "Object",
+    "JavaScript",
+    "Observable",
+    "Object",
+    "Proxy"
+  ],
+  "author": "ayqy",
+  "license": "MIT"
+}
